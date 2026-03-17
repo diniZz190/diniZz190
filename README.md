@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou Arthur Diniz
 
-<!--
-**diniZz190/diniZz190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software - UNIFIL  
+💻 Interessado em programação, tecnologia e desenvolvimento de sistemas  
+🏐 Gosto de jogar vôlei e explorar novas tecnologias  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente estou cursando **Engenharia de Software** e desenvolvendo projetos para aprimorar minhas habilidades em programação e desenvolvimento web.
+
+Tenho interesse em:
+- Desenvolvimento Web
+- Programação
+- Tecnologia e inovação
+- Projetos de software
+
+---
+
+## 🛠 Tecnologias que estou aprendendo
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+---
+
+## 📚 Projetos
+
+📖 **Sistema de Livraria Web**  
+Projeto desenvolvido para a disciplina de Análise e Projeto de Sistemas.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (coloque seu link)
+- Email: (se quiser colocar)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
